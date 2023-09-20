@@ -37,7 +37,7 @@
     "version": 2,
     "builds": [
         {
-            "src": "./bot.py",
+            "src": "./Run",
             "use": "@vercel/python"
         }
     ],
